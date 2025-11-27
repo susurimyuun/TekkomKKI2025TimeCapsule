@@ -2,12 +2,12 @@
 
 // Oscar's message function.
 // Message format: NPM | Full Name | Message
-void oscar() {
-    puts("0006347853 | Oscar Oscar | Just you wait");
+void said() {
+    puts("2506557785 | Said Abdullah Samy | I'm going to be the king of the pirates!");
 }
 
 int main() {
-    oscar();
+    said();
 
     // Call your function after this.
 
